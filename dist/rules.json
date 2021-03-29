@@ -1,5 +1,8 @@
 {
     "button": [{
         "type": "component"
+    }],
+    "input": [{
+        "type": "component"
     }]
 }
